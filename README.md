@@ -1,7 +1,7 @@
 #Terceiro Trimestre
 
 ## Identificação
-Igor Boorges Maringá - n.17
+Igor Borges Maringá - n.17
 
 # Coonteudo
 HTML, CSS e Javascrypt
