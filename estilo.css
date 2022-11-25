@@ -1,0 +1,29 @@
+.verde {
+    width: 400px;
+    height: 300px;
+    background: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.amarelo {
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    transform: rotateZ(42deg)
+    
+}
+.azul {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.branco {
+    width: 200px;
+    height: 20px;
+    background: white;
+    transform: rotateZ(137deg);
+}
